@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Life Is Beautiful</h1>    
+    <h1 style="text-align: center">Life Is Beautiful</h1>    
 </body>
 </html>
