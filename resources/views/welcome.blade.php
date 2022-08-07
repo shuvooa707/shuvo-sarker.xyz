@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <style>
+        @font-face {
+            font-family: myFirstFont;
+            src: url( {{ resource_path() . "/fonts/elvencommonspeak.ttf" }});
+        }
+    </style>
 </head>
 <body>
     <h1 style="text-align: center">Life Is Beautiful</h1>    
