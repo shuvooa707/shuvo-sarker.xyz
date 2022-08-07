@@ -7,8 +7,11 @@
     <title>Document</title>
     <style>
         @font-face {
-            font-family: myFirstFont;
+            font-family: 'Elven Common Speak';
             src: url({{ asset("/fonts/elvencommonspeak.ttf") }});
+        }
+        h1 {
+            font-family: 'Elven Common Speak';
         }
     </style>
 </head>
