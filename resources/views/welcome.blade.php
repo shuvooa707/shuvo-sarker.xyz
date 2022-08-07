@@ -8,7 +8,7 @@
     <style>
         @font-face {
             font-family: myFirstFont;
-            src: url( {{ resource_path() . "/fonts/elvencommonspeak.ttf" }});
+            src: url({{ asset("/fonts/elvencommonspeak.ttf") }});
         }
     </style>
 </head>
