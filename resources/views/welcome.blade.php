@@ -22,7 +22,12 @@
 
         #links-container {
             position: absolute;
-            bottom: 0px;
+            bottom: 10px;
+        }
+        #links-container a {
+            text-decoration: none;
+            color: grey
+
         }
     </style>
 </head>
@@ -30,7 +35,7 @@
 <body>
     <h1 id="life">Life Is Beautiful</h1>
     <div id="links-container">
-        <a href="https://github.com/shuvooa707">github</a>
+        <a href="https://github.com/shuvooa707">Github</a>
     </div>
 </body>
 
